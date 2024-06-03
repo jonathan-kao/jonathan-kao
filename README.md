@@ -1,6 +1,4 @@
 - 👋 Hey! I'm Jonathan Kao 高文叙, passion for all things tech 👀
-- 💻 Computer Engineering senior at Purdue University 🎓
-- 🌐 Former IT intern at Harvest Construction Co., Ltd., Taipei 🏢
-- 🔭 Passionate about coding, web development, and UI design ⚡️
+- 💻 Computer Engineering graduate from Purdue University 🎓
 - 🌱 Exploring the realms of software development and open-source 👨‍💻
 - 🌍 Let's connect and embark on an exciting coding adventure together! 🚀
